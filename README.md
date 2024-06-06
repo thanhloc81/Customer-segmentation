@@ -10,6 +10,10 @@ This dashboard analyzes customer behavior using RFM (Recency, Frequency, Monetar
 - Which customers should the sales team focus on to build long-term relationships?
 - What are the most popular products and their popularity levels among different customer segments?
 
+## Tools:
+- **Google BigQuery:** Using SQL for data retrieval and transformation. Also utilized for creating data models.
+- **PowerBI:** Visualization.
+  
 ## Analysis Context:
 - **Stakeholder:** Sales Department Manager
 - **Report Date:** July 10, 2014

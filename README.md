@@ -1,5 +1,6 @@
 # Customer Analysis Dashboard for Adventureworks Cycles
-### [View the Dashboard](https://project.novypro.com/P0z7tU)
+
+<a href="https://project.novypro.com/P0z7tU" target="_blank"> Click here to View the Dashboard!</a>
 
 ## Company:
 Adventureworks Cycles, a leading multinational manufacturer, produces and distributes bicycles, accessories, and materials to North American, European, and Asian markets. After a successful financial year, the company aims to expand its market share by focusing sales efforts on its best customers and reducing production costs to lower sales expenses.
